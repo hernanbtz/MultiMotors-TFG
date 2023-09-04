@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://github.com/hernanbtz/pons-ip-complete/blob/master/src/main/resources/img/logo.jpg?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/hernanbtz/MultiMotors-TFG/blob/main/multimotors/src/main/resources/img/logo.jpg" alt="Logo" width="80" height="80">
   </p>
 
   <h3 align="center">MultiMotors</h3>
@@ -35,10 +35,6 @@
 ---
 
 ## About The Project
-
- <p>
-    <img src="https://github.com/hernanbtz/pons-ip-complete/blob/master/src/main/resources/img/ppal.png?raw=true" alt="MainScreen">
- </p>
 
 This application was made for the delivery of the TFG (Final Degree Project). 
 
