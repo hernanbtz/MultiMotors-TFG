@@ -83,7 +83,7 @@ There is only one requirement. Have Java and Maven installed.
 
 All the steps are in Spanish, you can translate little by little if you don't understand it.
 
-<a href="https://github.com/hernanbtz/pons-ip-complete/blob/master/src/main/resources/img/ManualPonsAPP.pdf">Download</a>
+<a href="https://github.com/hernanbtz/MultiMotors-TFG/blob/main/Memoria-MultiMotors.pdf">Download</a>
 
 ## License
 
