@@ -3,7 +3,7 @@
     <img src="https://github.com/hernanbtz/pons-ip-complete/blob/master/src/main/resources/img/logo.jpg?raw=true" alt="Logo" width="80" height="80">
   </p>
 
-  <h3 align="center">CompletaPONS</h3>
+  <h3 align="center">MultiMotors</h3>
 
   <p align="center">
     <br/>
@@ -40,9 +40,9 @@
     <img src="https://github.com/hernanbtz/pons-ip-complete/blob/master/src/main/resources/img/ppal.png?raw=true" alt="MainScreen">
  </p>
 
-This application deals with completion of Excels. Mainly, replacing and improving the VLOOKUP function.
+This application was made for the delivery of the TFG (Final Degree Project). 
 
-It was carried out during my internship stage (370 hours) at the company PONS IP.
+Simulates a vehicle dealer application from the user side to the administrator side.
 
 ---
 
@@ -53,7 +53,6 @@ It was carried out during my internship stage (370 hours) at the company PONS IP
   * <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
   * <img alt="Maven" src="https://custom-icon-badges.demolab.com/badge/Maven-grey.svg?logo=&logoColor=white">
   <br>
-  * <img alt="POI" src="https://custom-icon-badges.demolab.com/badge/POI-orange.svg?logo=&logoColor=white">
 </p>
 
 ## Getting Started
@@ -69,7 +68,7 @@ There is only one requirement. Have Java and Maven installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hernanbtz/pons-ip-complete.git
+   git clone https://github.com/hernanbtz/MultiMotors-TFG
    ```
 2. Convert the file to .jar
    ```sh
