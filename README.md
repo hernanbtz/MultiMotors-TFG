@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Sergio Hernández - sergiopozanco@gmail.com
 
-Project Link: <a href="https://github.com/hernanbtz/pons-ip-complete">View Project</a>
+Project Link: <a href="https://github.com/hernanbtz/MultiMotors-TFG">View Project</a>
 
 
 
